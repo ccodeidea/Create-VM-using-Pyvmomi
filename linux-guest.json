@@ -1,0 +1,16 @@
+{
+	"host":"10.128.0.20",
+	"user":"chen.zilong@nubosh.com",
+	"password":"CZL361x0",
+	"port":"443",
+	"vmname":"centOS6.5-zilong2",
+	"datastore":"datastore1 (10.128.0.26)",
+	"ramsize": "2048",
+	"vcpus": "2",
+	"network":"VM Network",
+	"guestID":"centos64Guest",
+	"version":"vmx-07",
+	"disk_type":"thin",
+	"disk_size":"40",
+	"isofile": "[datastore1 (10.128.0.26)] CentOS-6.5-x86_64-bin-DVD1.iso"
+}
