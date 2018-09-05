@@ -1,2 +1,1 @@
-实习做的工作
-自动化创建虚拟机并安装操作系统
+auto create virtual machine using pyVmomi
